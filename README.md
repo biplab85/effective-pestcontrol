@@ -188,7 +188,6 @@ Vanilla, no framework. Handles:
 - **Design &amp; development:** **Biplab Kumar Paul** — Web Designer &amp; Developer
   📱 01735 927356 · ✉️ [biplab.cse.85@gmail.com](mailto:biplab.cse.85@gmail.com)
 - **Agency:** [CapsuleDIGITAL](https://www.capsuledigital.com.au/) — public footer credit
-- **Reference content:** [bestplumberbrisbane.com.au](https://bestplumberbrisbane.com.au/)
 - **Reference site (source of truth):** [effective-pestcontrol.com.au](https://effective-pestcontrol.com.au/)
 - **Brand:** © Effective Pest Control (Sydney)
 - **Photography:** EPC field photography (provided in `images/`)
